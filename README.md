@@ -1,4 +1,5 @@
 # Image Stitching Project
+Please read the [problem_statement.md](problem_statement.md) file for questions and more clarity.
 
 This project involves stitching two pairs of images to create panoramic or wide images. Two approaches are used for stitching:
 

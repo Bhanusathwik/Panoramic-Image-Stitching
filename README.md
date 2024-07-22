@@ -28,6 +28,17 @@ This project involves stitching two pairs of images to create panoramic or wide 
    source env/bin/activate  # On Windows use `env\Scripts\activate`
    pip install -r requirements.txt
    
-3. **Run the Image Stitching**
+3. **To Run the Image Stitching**
    - Using the Built-in OpenCV Function
-   - Using the Custom Code 
+   - Using the Custom Code
+     
+   Use the Jupyter Notebook.
+   - Start the Jupyter Notebook server:
+      ```bash
+      
+      jupyter notebook
+
+   - Run the `BhanuSathwik_Nulu_assignment_code.ipynb` and take the inputs from the `dataset`.
+      ```bash
+      jupyter nbconvert --to notebook --execute BhanuSathwik_Nulu_assignment_code.ipynb
+

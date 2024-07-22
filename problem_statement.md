@@ -1,6 +1,6 @@
 ## Problem Statement
 
-Given the dataset - Use the image folders `theory_left` and `car_1`.
+Given the dataset - Use the image folders [theory_theft](./dataset/theory_theft) and [cars_1](./dataset/cars_1).
 
 ### Information
 **Stitching**: Stitching two image pairs involves aligning and blending them seamlessly to create a panoramic or composite image. This involves finding the transformation (translation, rotation, scale) that aligns corresponding points/features in the two images.
